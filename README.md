@@ -1,7 +1,7 @@
 # CryptoHelper
-Simple jars to do some simple crypto stuff. Nothing but a homework of java 
-Parameters format:
-[1]UI(CryptoHelper.exe)
+Simple jars to do some simple crypto stuff. Nothing but a homework of java <br>
+Parameters format:<br>
+[1]UI(CryptoHelper.exe)<br>
   #1 Rot13:input cipher/plaint text directly
   example: admin -> nqzva
   #2 Caser:number(key in Caesar)+text(to encode/decode)<br>
@@ -47,3 +47,4 @@ Parameters format:
   java -jar vigenere.jar 1 admin agyqa  ->  admin<br>
   java -jar ZipCenOp.jar -r flag.zip  ->  success 1 flag(s) found<br>
 ![image](https://github.com/RicardoNacanda/CryptoHelper/blob/master/runtime.png)
+<br>Obviously there are a lot of flaws. I will repair them when "I am free".
