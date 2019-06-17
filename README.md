@@ -46,4 +46,4 @@ Parameters format:
   java -jar vigenere.jar 0 admin admin  ->  agyqa<br>
   java -jar vigenere.jar 1 admin agyqa  ->  admin<br>
   java -jar ZipCenOp.jar -r flag.zip  ->  success 1 flag(s) found<br>
-![image](https://github.com/RicardoNacanda/CryptoHelper/blob/master/runtime.png）
+![image](https://github.com/RicardoNacanda/CryptoHelper/blob/master/runtime.png)
